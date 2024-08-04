@@ -1,1 +1,2 @@
-# New git file for project pushUp
+# New git project 
+created in local system & push to remote repo!!
